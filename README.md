@@ -12,8 +12,8 @@
 - 💼 Currently working as a **Flutter Developer** (using a separate private GitHub account for production code).  
 - 🧩 Experienced with **Flutter**, **Laravel**, **Firebase**, **RESTful APIs**, and modular architectures (GetX, Riverpod).  
 - 💡 Interested in **healthcare apps**, **FinTech**, and **product design**.  
-- 🌱 Currently exploring **SwiftUI** and **React Native**.  
-- 🧠 Believe in *“code that tells a story”* — readable, testable, and maintainable.
+- 🧠 Believe in *“code that tells a story”* — readable, testable, and maintainable.  
+- 🌸 Currently learning **Japanese (N5 level)** to broaden global collaboration skills.
 
 ---
 
@@ -29,10 +29,32 @@
   <img src="https://skillicons.dev/icons?i=laravel,php,mysql,sqlite" />
 </p>
 
-#### **Tools / Others**
+#### **Tools / Environment**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=xcode,androidstudio,vscode,git,github,postman,figma" />
 </p>
+
+#### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/日本語-N5%20Level-blue?logo=googletranslate&logoColor=white" />
+</p>
+
+---
+
+### ⚙️ State Management
+<p>
+  <img src="https://img.shields.io/badge/GetX-Blue?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Provider-46A2F1?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLoC-FFA500?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Riverpod-00C7B7?logo=flutter&logoColor=white" />
+</p>
+
+> Experienced using **GetX** for reactive UI + routing,  
+> **Provider** for simple state, and **BLoC** for complex business logic separation.  
 
 ---
 
@@ -60,6 +82,7 @@
 - 🌐 Building **Flutter UI kits** for faster prototyping.  
 - 🩺 Collaborating with medical teams from RSSA Malang & Universitas Brawijaya.  
 - 🧭 Developing modular structure for scalable app architecture.  
+- 🎨 Uploading UI/UX concepts to **Dribbble** regularly.
 
 ---
 
@@ -67,5 +90,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://dribbble.com/yourdribbble"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <a href="[https://dribbble.com/itirs](https://dribbble.com/dpplaboratory)"><img src="https://skillicons.dev/icons?i=dribbble" /></a>
 </p>
+
+---
