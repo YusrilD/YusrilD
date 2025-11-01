@@ -79,15 +79,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yusril-dewantara/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://dribbble.com/dpplaboratory" target="_blank">
-  <img 
-    src="https://cdn-icons-png.flaticon.com/512/124/124037.png" 
-    width="50" 
-    height="50" 
-    alt="Dribbble" 
-    style="border-radius:15%;" 
-  />
-</a>
-
-</a>
-
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/124/124037.png" 
+      width="50" 
+      height="50" 
+      alt="Dribbble" 
+      style="border-radius:8px;" 
+    />
+  </a>
 </p>
