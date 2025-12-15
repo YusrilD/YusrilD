@@ -16,6 +16,9 @@
 
 ---
 
+### Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YusrilD&show_icons=true&hide_border=true)
+
 ### 🛠️ Tech Stack
 
 #### **Frontend / Mobile**
