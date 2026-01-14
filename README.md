@@ -61,9 +61,8 @@
 | Project | Description | Tech | Docs
 |----------|--------------|------|------|
 | **MyIRS** | Internal recruitment & sales management system | Flutter, Laravel, REST API | Unvailable |
-| **Kuesta** | Medical app for leprosy | Flutter, Laravel, MySQL | <a href="https://www.linkedin.com/in/yusril-dewantara/">Kuesta Docs</a> |
-| **Insert** | Medical app for scabies | Flutter, Laravel, MySQL, TensorFlow | <a href="https://www.linkedin.com/in/yusril-dewantara/">Insert Docs</a> |
-
+| **Kuesta** | Medical app for leprosy | Flutter, Laravel, MySQL | <a href="https://github.com/YusrilD/kuesta_documentation">Kuesta Docs</a> |
+| **Insert** | Medical app for scabies | Flutter, Laravel, MySQL, TensorFlow | <a href="https://github.com/YusrilD/insert_documentation">Insert Docs</a> |
 > Most production projects are private — but you can explore my demo / component repos below.
 
 ---
