@@ -40,7 +40,6 @@
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/日本語-N5%20Level-blue?logo=googletranslate&logoColor=white" />
 </p>
@@ -60,11 +59,11 @@
 ---
 
 ### 📱 Featured Projects
-| Project | Description | Tech |
+| Project | Description | Tech | Documentation
 |----------|--------------|------|
-| **MyIRS** | Internal recruitment & sales management system | Flutter, Laravel, REST API |
-| **Kuesta** | Medical app for leprosy | Flutter, Laravel, MySQL 
-| **Insert** | Medical app for scabies | Flutter, Laravel, MySQL, TensorFlow
+| **MyIRS** | Internal recruitment & sales management system | Flutter, Laravel, REST API | Not Available |
+| **Kuesta** | Medical app for leprosy | Flutter, Laravel, MySQL | 🔗 |
+| **Insert** | Medical app for scabies | Flutter, Laravel, MySQL, TensorFlow | 🔗 |
 
 > Most production projects are private — but you can explore my demo / component repos below.
 
