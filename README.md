@@ -59,9 +59,9 @@
 ---
 
 ### 📱 Featured Projects
-| Project | Description | Tech | Documentation
-|----------|--------------|------|
-| **MyIRS** | Internal recruitment & sales management system | Flutter, Laravel, REST API | Not Available |
+| Project | Description | Tech | Docs
+|----------|--------------|------|------|
+| **MyIRS** | Internal recruitment & sales management system | Flutter, Laravel, REST API | Unvailable |
 | **Kuesta** | Medical app for leprosy | Flutter, Laravel, MySQL | 🔗 |
 | **Insert** | Medical app for scabies | Flutter, Laravel, MySQL, TensorFlow | 🔗 |
 
