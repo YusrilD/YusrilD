@@ -17,7 +17,7 @@
 ---
 
 ### Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YusrilD&show_icons=true&hide_border=true)
+![My GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=YusrilD&show_icons=true)
 
 ### 🛠️ Tech Stack
 
