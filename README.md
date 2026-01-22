@@ -9,14 +9,16 @@ I am a Flutter Developer with experience building production applications with 5
 ### Portfolio Project
 | Project | Description | Tech | Docs
 |----------|--------------|------|------|
+| **Triv** | Crypto Exchange App | Flutter | <a href="https://github.com/YusrilD/triv_unofficial_docs/blob/main/README.md">Triv Docs</a> | 
+| **Crypto Wave** | Crypto Media App | Flutter | <a href="https://github.com/YusrilD/cw_unofficial_docs/blob/main/README.md">CryptoWave Docs</a> |
 | **Kuesta** | Medical app for leprosy | Flutter, Laravel, MySQL | <a href="https://github.com/YusrilD/kuesta_documentation">Kuesta Docs</a> |
 | **Insert** | Medical app for scabies | Flutter, Laravel, MySQL, TensorFlow | <a href="https://github.com/YusrilD/insert_documentation">Insert Docs</a> |
-| **MyIRS** | Internal recruitment & sales management system | Flutter, Laravel, REST API | <a href="https://github.com/YusrilD/myirs_docs">DriverApp Docs</a> |
+| **MyIRS** | Internal recruitment & sales management system | Flutter, Laravel, REST API | <a href="https://github.com/YusrilD/myirs_docs">MyIRS Docs</a> |
 | **Driver App** | Ika Raya Sentausa Driver App | Flutter, Laravel, REST API | <a href="https://github.com/YusrilD/driverapp_docs">DriverApp Docs</a> | 
 | **HRIS Web** | Ika Raya Sentausa HRIS App | Flutter, Laravel, REST API | Unvailable | 
-| **Iziloh** | Marketplace Laundry | Flutter | Unvailable |
-| **BKS Mobile** | Mobile Banking | Flutter, PHP | Unvailable |
-| **Aeon Fast** | Financing Application | Java, Kotlin | Unvailable |
+| **Iziloh** | Marketplace Laundry | Flutter | <a href="https://github.com/YusrilD/iziloh_docs/blob/main/README.md">Iziloh Docs</a>  | 
+| **BKS Mobile** | Mobile Banking | Flutter, PHP | <a href="https://github.com/YusrilD/bksmobile_docs/blob/main/README.md">BKS Mobile Docs</a>  | 
+| **Aeon Fast** | Financing Application | Java, Kotlin | <a href="https://github.com/YusrilD/aeonfast_docs/blob/main/README.md">AeonFast Docs</a> | 
 
 <!--
 ### Github Stats
