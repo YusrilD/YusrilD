@@ -6,8 +6,12 @@
 </p>
 
 ---
-### About Me
-I am a Flutter Developer with experience building production applications. I work primarily with Flutter, Laravel, Firebase, and RESTful APIs, applying a clean architecture approach. My interests include healthcare and fintech applications, with a focus on product-oriented development. I am also learning Japanese (N5 level) to support global collaboration.
+Summary
+
+I am Flutter Developer with experience  building production applications.
+
+<!-- I am a Flutter Developer with experience building production applications. I work primarily with Flutter, Laravel, Firebase, and RESTful APIs, applying a clean architecture approach. My interests include healthcare and fintech applications, with a focus on product-oriented development. I am also learning Japanese (N5 level) to support global collaboration.
+-->
 ---
 
 ### Portfolio
