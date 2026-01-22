@@ -73,7 +73,6 @@ I am a Flutter Developer with experience building production applications with 5
 | **Insert** | Medical app for scabies | Flutter, Laravel, MySQL, TensorFlow | <a href="https://github.com/YusrilD/insert_documentation">Insert Docs</a> |
 > Most production projects are private — but you can explore my demo / component repos below.
 -->
----
 
 ***Most production projects are private, and also previously working on corporate account***
 
