@@ -1,8 +1,6 @@
-<h1 align="center">Hi, I'm Yusril 👋</h1>
+<h1 align="center">Hi, I'm Yusril</h1>
 
----
-Summary
-I am Flutter Developer with experience  building production applications.
+I am Flutter Developer with experience  building production applications. I work primarly with flutter, swift ui, laravel. I interest with finance, web3, and embedded system.  
 
 <!-- I am a Flutter Developer with experience building production applications. I work primarily with Flutter, Laravel, Firebase, and RESTful APIs, applying a clean architecture approach. My interests include healthcare and fintech applications, with a focus on product-oriented development. I am also learning Japanese (N5 level) to support global collaboration.
 -->
