@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Yusril</h1>
 
-I am a Flutter Developer with experience building production applications with 5 years and more of experience. I work primarly with flutter, swift ui, laravel. I interest with finance, web3, UI/UX design and embedded system.  
+I am a Flutter Developer with experience building production applications with 5 years and more of experience. I work primarly with flutter, swift ui, laravel. I interest with finance, web3, UI/UX design and embedded system.
 
 <!-- I am a Flutter Developer with experience building production applications. I work primarily with Flutter, Laravel, Firebase, and RESTful APIs, applying a clean architecture approach. My interests include healthcare and fintech applications, with a focus on product-oriented development. I am also learning Japanese (N5 level) to support global collaboration.
 -->
@@ -75,11 +75,15 @@ I am a Flutter Developer with experience building production applications with 5
 -->
 ---
 
+***Most production projects are private, and also previously working on corporate account***
+
+<!--
 ### 🧩 Recent Work
 - 🌐 Building **Flutter UI kits** for faster prototyping, in provate repo
 - 🩺 Collaborating with medical teams from Local hospital in Malang & Universitas Brawijaya.  
 - 🧭 Developing modular structure for scalable app architecture.  
 - 🎨 Uploading UI/UX concepts to **Dribbble** regularly.
+-->
 
 ---
 
