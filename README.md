@@ -29,7 +29,7 @@ I am a Flutter Developer with experience building production applications with 5
 
 #### **Frontend / Mobile**
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
 #### **Backend / Database**
