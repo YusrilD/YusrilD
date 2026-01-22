@@ -6,11 +6,8 @@
 </p>
 
 ---
-### 🚀 About Me
-- 💼 Currently working as a **Flutter Developer** (using a separate private GitHub account for production code).  
-- 🧩 Experienced with **Flutter**, **Laravel**, **Firebase**, **RESTful APIs**, and use clean architecture.  
-- 💡 Interested in **healthcare apps**, **FinTech**, and **product design**.    
-- 🌸 Currently learning **Japanese (N5 level)** to broaden global collaboration skills.
+### About Me
+I am a Flutter Developer with experience building production applications. I work primarily with Flutter, Laravel, Firebase, and RESTful APIs, applying a clean architecture approach. My interests include healthcare and fintech applications, with a focus on product-oriented development. I am also learning Japanese (N5 level) to support global collaboration.
 ---
 
 ### Portfolio
