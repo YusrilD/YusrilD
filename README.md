@@ -1,22 +1,34 @@
 <h1 align="center">Hi, I'm Yusril 👋</h1>
 
-<!-- <p align="center">
-  <b>Flutter Developer | Backend (Laravel) | UI/UX-Oriented Engineer</b><br>
+<p align="center">
+  <b>Flutter Developer | UI/UX-Oriented Engineer</b><br>
   Passionate about building scalable apps and clean architecture.<br>
-</p> -->
+</p>
 
 ---
-<!--
 ### 🚀 About Me
 - 💼 Currently working as a **Flutter Developer** (using a separate private GitHub account for production code).  
 - 🧩 Experienced with **Flutter**, **Laravel**, **Firebase**, **RESTful APIs**, and use clean architecture.  
 - 💡 Interested in **healthcare apps**, **FinTech**, and **product design**.    
 - 🌸 Currently learning **Japanese (N5 level)** to broaden global collaboration skills.
--->
 ---
 
+### Portfolio
+| Project | Description | Tech | Docs
+|----------|--------------|------|------|
+| **Kuesta** | Medical app for leprosy | Flutter, Laravel, MySQL | <a href="https://github.com/YusrilD/kuesta_documentation">Kuesta Docs</a> |
+| **Insert** | Medical app for scabies | Flutter, Laravel, MySQL, TensorFlow | <a href="https://github.com/YusrilD/insert_documentation">Insert Docs</a> |
+| **MyIRS** | Internal recruitment & sales management system | Flutter, Laravel, REST API | Unvailable |
+| **Driver App** | Ika Raya Sentausa Driver App | Flutter, Laravel, REST API | Unvailable |
+| **HRIS Web** | Ika Raya Sentausa HRIS App | Flutter, Laravel, REST API | Unvailable |
+| **Iziloh** | Marketplace Laundry | Flutter | Unvailable |
+| **BKS Mobile** | Mobile Banking | Flutter, PHP | Unvailable |
+| **Aeon Fast** | Financing Application | Java, Kotlin | Unvailable |
+
+<!--
 ### Github Stats
 ![My GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=YusrilD&show_icons=true)
+-->
 
 ### 🛠️ Tech Stack
 
@@ -57,6 +69,7 @@
 
 ---
 
+<!--
 ### 📱 Featured Projects
 | Project | Description | Tech | Docs
 |----------|--------------|------|------|
@@ -64,7 +77,7 @@
 | **Kuesta** | Medical app for leprosy | Flutter, Laravel, MySQL | <a href="https://github.com/YusrilD/kuesta_documentation">Kuesta Docs</a> |
 | **Insert** | Medical app for scabies | Flutter, Laravel, MySQL, TensorFlow | <a href="https://github.com/YusrilD/insert_documentation">Insert Docs</a> |
 > Most production projects are private — but you can explore my demo / component repos below.
-
+-->
 ---
 
 ### 🧩 Recent Work
