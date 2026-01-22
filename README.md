@@ -7,7 +7,7 @@ I am a Flutter Developer with experience building production applications with 5
 ---
 
 ### Portfolio Project
-| Project | Description | Tech | Docs
+|Project | Description | Tech | Docs
 |----------|--------------|------|------|
 | **Triv** | Crypto Exchange App | Flutter | <a href="https://github.com/YusrilD/triv_unofficial_docs/blob/main/README.md">Triv Docs</a> | 
 | **Crypto Wave** | Crypto Media App | Flutter | <a href="https://github.com/YusrilD/cw_unofficial_docs/blob/main/README.md">CryptoWave Docs</a> |
