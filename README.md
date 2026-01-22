@@ -1,13 +1,7 @@
 <h1 align="center">Hi, I'm Yusril 👋</h1>
 
-<p align="center">
-  <b>Flutter Developer | UI/UX-Oriented Engineer</b><br>
-  Passionate about building scalable apps and clean architecture.<br>
-</p>
-
 ---
 Summary
-
 I am Flutter Developer with experience  building production applications.
 
 <!-- I am a Flutter Developer with experience building production applications. I work primarily with Flutter, Laravel, Firebase, and RESTful APIs, applying a clean architecture approach. My interests include healthcare and fintech applications, with a focus on product-oriented development. I am also learning Japanese (N5 level) to support global collaboration.
