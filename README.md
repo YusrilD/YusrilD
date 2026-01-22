@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Yusril 👋</h1>
 
-<p align="center">
+<!-- <p align="center">
   <b>Flutter Developer | Backend (Laravel) | UI/UX-Oriented Engineer</b><br>
   Passionate about building scalable apps and clean architecture.<br>
-</p>
+</p> -->
 
 ---
-
+<!--
 ### 🚀 About Me
 - 💼 Currently working as a **Flutter Developer** (using a separate private GitHub account for production code).  
 - 🧩 Experienced with **Flutter**, **Laravel**, **Firebase**, **RESTful APIs**, and use clean architecture.  
 - 💡 Interested in **healthcare apps**, **FinTech**, and **product design**.    
 - 🌸 Currently learning **Japanese (N5 level)** to broaden global collaboration skills.
-
+-->
 ---
 
 ### Github Stats
